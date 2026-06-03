@@ -17,7 +17,7 @@
 ### Inside `validateDate()` function:
 ### Step 4: 
   Declare variables `dd`, `mm`, and `yy`.
-### Step 5: 
+### Step 5:
   Ask the user to enter a date in `DD/MM/YYYY` format.
 ### Step 6: 
   Read the date values using `scanf`.
